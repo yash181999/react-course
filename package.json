@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash181999/react-course.git"
+  },
+  "keywords": [],
+  "author": "Yash Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash181999/react-course/issues"
+  },
+  "homepage": "https://github.com/yash181999/react-course#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
